@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserCentrics</string>
+    <string name="message_something_went_wrong_str">Something went wrong!</string>
+    <string name="nothing_found">Nothing found!</string>
+    <string name="consent_score">Consent Score</string>
+    <string name="_0">0</string>
+    <string name="show_content_banner">Show Concent Banner</string>
+
+</resources>
